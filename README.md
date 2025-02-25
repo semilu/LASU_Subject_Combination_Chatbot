@@ -13,8 +13,8 @@ Data Processing: The scraped data was formatted into a structured excel table.
 PDF Conversion: The Excel data was converted into a PDF file using iLovePDF. 
 Chatbot Integration: The processed data was linked to a chatbot powered by Cody AI to allow interactive queries.
 ## DOWNLOAD FILE
-{download} ([Lasu Subject combination.xlsx](https://github.com/user-attachments/files/18951760/Lasu.Subject.combination.xlsx))
-{download} ([Lasu Subject combination.pdf](https://github.com/user-attachments/files/18951762/Lasu.Subject.combination.pdf))
+{download}([Lasu Subject combination.xlsx](https://github.com/user-attachments/files/18951760/Lasu.Subject.combination.xlsx))
+{download}([Lasu Subject combination.pdf](https://github.com/user-attachments/files/18951762/Lasu.Subject.combination.pdf))
 ### LIVE DEMO 
 {click here to use the LASU subject combination chatbot} {https://bit.ly/LASU_ASPIRANT_CHATBOT}
 ## CODE
