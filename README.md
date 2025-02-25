@@ -1,4 +1,4 @@
-# LASU_Subject_Combination_Chatbot
+[Lasu Subject combination.xlsx](https://github.com/user-attachments/files/18951750/Lasu.Subject.combination.xlsx)# LASU_Subject_Combination_Chatbot
 ## PROJECT OVERVIEW
 This project helps LASU (Lagos State University) applicants determine the correct subject combinations for their desired field of study. Users can ask the chatbot about subject requirements, and it provides instant feedback."
 ## TECHNOLOGIES USED
@@ -10,12 +10,13 @@ The data was gotten from (https://allschool.ng/list-of-courses-offered-in-lasu/)
 ## HOW IT WORKS
 Data Collection: The required subject combinations were scraped from AllSchool using Excel Power Query.
 Data Processing: The scraped data was formatted into a structured excel table.
-[Lasu Subject combination.xlsx](https://github.com/user-attachments/files/18951452/Lasu.Subject.combination.xlsx)
 PDF Conversion: The Excel data was converted into a PDF file using iLovePDF. 
-[Lasu Subject combination.pdf](https://github.com/user-attachments/files/18951462/Lasu.Subject.combination.pdf)
 Chatbot Integration: The processed data was linked to a chatbot powered by Cody AI to allow interactive queries.
-## LIVE DEMO 
-https://bit.ly/LASU_ASPIRANT_CHATBOT
+## DOWNLOAD FILE
+{download} {[Lasu Subject combination.xlsx](https://github.com/user-attachments/files/18951760/Lasu.Subject.combination.xlsx)
+{download} {[Lasu Subject combination.pdf](https://github.com/user-attachments/files/18951762/Lasu.Subject.combination.pdf)
+### LIVE DEMO 
+{click here to use the LASU subject combination chatbot} {https://bit.ly/LASU_ASPIRANT_CHATBOT}
 ## CODE
 <iframe src="https://embed.cody.bot/9e496cd1-5a8f-42b3-9447-f8e5405fcf9e" style="border:0px;" name="codyai" scrolling="no" frameborder="1" marginheight="0" marginwidth="0" height="800px" width="100%" allowfullscreen></iframe>
 ## LIMITATION
