@@ -14,4 +14,4 @@ PDF Conversion: The Excel data was converted into a PDF file using iLovePDF.
 Chatbot Integration: The processed data was linked to a chatbot powered by Cody AI to allow interactive queries.
 ## DOWNLOAD FILE
 (excel) (https://docs.google.com/spreadsheets/d/1gO6XfYGk4AnB3bybPZycx47pLWB3EedN/edit?gid=440855588#gid=440855588)
-(pdf)[Lasu Subject combination.pdf](https://github.com/user-attachments/files/18952336/Lasu.Subject.combination.pdf)
+(pdf) (https://drive.google.com/file/d/1ZYoEesW5L5o6JpO61Qqh2RgvG6lCAIyO/view?usp=drive_link)
