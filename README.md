@@ -13,4 +13,5 @@ Data Processing: The scraped data was formatted into a structured excel table.
 PDF Conversion: The Excel data was converted into a PDF file using iLovePDF. 
 Chatbot Integration: The processed data was linked to a chatbot powered by Cody AI to allow interactive queries.
 ## DOWNLOAD FILE
-(excel)[Lasu Subject combination.xlsx](https://github.com/user-attachments/files/18952153/Lasu.Subject.combination.xlsx)
+(excel) (https://docs.google.com/spreadsheets/d/1gO6XfYGk4AnB3bybPZycx47pLWB3EedN/edit?gid=440855588#gid=440855588)
+
